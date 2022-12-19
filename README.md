@@ -1,3 +1,6 @@
+# Personal Fork
+This is my own personal fork of zoneminder-containers/eventserver-base that I am using to create my k8s images.  I will be adding configs/etc that all are welcome to borrow from.  However, this is not intended to be 100% generic.
+
 # eventserver-base
 
 [![Docker Build](https://github.com/zoneminder-containers/eventserver-base/actions/workflows/docker-build.yaml/badge.svg)](https://github.com/zoneminder-containers/eventserver-base/actions/workflows/docker-build.yaml)
