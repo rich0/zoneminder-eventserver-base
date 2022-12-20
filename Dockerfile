@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:experimental
 ARG ZM_VERSION=1.36.32
-ARG ES_VERSION=6.1.28
+ARG ES_VERSION=v6.1.28
 
 #####################################################################
 #                                                                   #
