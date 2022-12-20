@@ -1,0 +1,5 @@
+docker build . --network=host --no-cache --tag=ghcr.io/rich0/zoneminder-eventviewer-base:test
+docker push ghcr.io/rich0/zoneminder-eventviewer-base:test
+docker tag ghcr.io/rich0/zoneminder-eventviewer-base:test
+ghcr.io/rich0/zoneminder-base:1.36.32-6.1.28
+docker push ghcr.io/rich0/zoneminder-eventviewer-base:1.36.32-6.1.28
